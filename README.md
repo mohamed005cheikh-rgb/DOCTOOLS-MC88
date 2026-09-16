@@ -17,7 +17,7 @@ Convertir, compresser, signer, protéger, organiser, extraire — seize tâches 
 Et surtout : **rien ne quitte votre appareil**. Tous vos documents sont traités localement, dans votre navigateur. Aucun fichier n'est envoyé sur un serveur, aucune donnée n'est collectée. Ce qui est à vous reste à vous.
 
 ---
-
+<!-- 
 ## 📸 Un aperçu
 
 <div align="center">
@@ -41,7 +41,7 @@ Et surtout : **rien ne quitte votre appareil**. Tous vos documents sont traités
 <div align="center">
   <img src="https://github.com/mohamed005cheikh-rgb/doctools-mc88/raw/main/images/Sr2.gif" alt="Signer un PDF au doigt" width="100%" />
 </div>
-
+-->
 ---
 
 ## ✨ Ce que vous trouverez
