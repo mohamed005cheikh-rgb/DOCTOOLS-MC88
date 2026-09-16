@@ -1,306 +1,162 @@
-# 📄 DOCTOOLS — Suite PDF & Documents (100% hors ligne)
+<div align="center">
 
-**DOCTOOLS** est une suite professionnelle de **16 outils PDF et documents** qui fonctionne **entièrement dans votre navigateur**. Aucun fichier n'est envoyé sur un serveur — tout est traité localement sur votre appareil.
+# 📄 DOCTOOLS
 
----
+**16 outils PDF et documents, entièrement dans votre navigateur.**
 
-## 📋 Prérequis
-
-1. Un navigateur web moderne (Chrome, Firefox, Edge, Safari, Brave, Opera)
-2. Aucune connexion Internet requise après le premier chargement
-3. Aucune installation de logiciel nécessaire
+</div>
 
 ---
 
-## 🚀 Guide d'installation
+## 👋 Bienvenue
 
-### Étape 1 : Télécharger le fichier
-1. Téléchargez le fichier `doctools.html` sur votre ordinateur
-2. Placez-le dans un dossier de votre choix (ex : `C:\DOCTOOLS\`)
+DOCTOOLS est une petite suite d'outils qui fait un travail simple, mais essentiel : s'occuper de vos PDF et de vos documents.
 
-### Étape 2 : Lancer l'application
-- **Méthode simple** : Double-cliquez sur le fichier
-- **Méthode alternative** : Faites un clic droit → « Ouvrir avec » → choisissez votre navigateur
+Convertir, compresser, signer, protéger, organiser, extraire — seize tâches du quotidien, réunies au même endroit, accessibles en un clic. Pas d'installation, pas de compte, pas de logiciel à télécharger. Vous ouvrez la page, vous déposez votre fichier, et c'est fait.
+
+Et surtout : **rien ne quitte votre appareil**. Tous vos documents sont traités localement, dans votre navigateur. Aucun fichier n'est envoyé sur un serveur, aucune donnée n'est collectée. Ce qui est à vous reste à vous.
 
 ---
 
-## 🎯 Les 16 outils disponibles
+## 📸 Un aperçu
 
-### 📋 Conversion (5 outils)
+<div align="center">
+  <img src="https://github.com/mohamed005cheikh-rgb/doctools-mc88/raw/main/images/Sc1.png" alt="Les 16 outils" width="100%" />
+</div>
 
-| Outil | Description | Quand l'utiliser |
-|-------|-------------|------------------|
-| **PDF → JPG** | Convertit chaque page en image JPG | Pour les formulaires qui n'acceptent que des images |
-| **PDF → PNG** | Convertit chaque page en PNG sans perte | Pour les diagrammes, captures d'écran, textes fins |
-| **JPG → PDF** | Combine des images en un seul PDF | Pour les photos, reçus, cartes d'identité scannées |
-| **TXT → PDF** | Transforme du texte brut en PDF formaté | Pour créer un PDF rapidement sans traitement de texte |
-| **HTML → PDF** | Convertit du code HTML en PDF | Pour les modèles d'email ou pages sauvegardées |
+<br />
 
-### 📊 Données (2 outils)
+<div align="center">
+  <img src="https://github.com/mohamed005cheikh-rgb/doctools-mc88/raw/main/images/Sc2.png" alt="Un outil ouvert" width="100%" />
+</div>
 
-| Outil | Description | Quand l'utiliser |
-|-------|-------------|------------------|
-| **JSON → PDF** | Génère un tableau PDF structuré | Pour les données exportées d'une API |
-| **CSV → PDF** | Convertit un CSV en tableau PDF imprimable | Pour les exports Excel/Google Sheets |
+<br />
 
-### ⚡ Optimisation (2 outils)
+<div align="center">
+  <img src="https://github.com/mohamed005cheikh-rgb/doctools-mc88/raw/main/images/Sr1.gif" alt="Déposer un fichier et le traiter" width="100%" />
+</div>
 
-| Outil | Description | Quand l'utiliser |
-|-------|-------------|------------------|
-| **Compresser PDF** | Réduit la taille du fichier | Pour l'email ou l'upload |
-| **Éditeur de métadonnées** | Modifie ou efface les infos cachées | Avant d'envoyer un PDF en externe |
+<br />
 
-### 🔒 Sécurité (3 outils)
-
-| Outil | Description | Quand l'utiliser |
-|-------|-------------|------------------|
-| **Filigrane PDF** | Ajoute un texte ou logo en filigrane | Pour les documents confidentiels ou de marque |
-| **Signature PDF** | Dessine ou importe une signature | Pour signer sans imprimante ni scanner |
-| **Caviardage PDF** | Dessine des boîtes noires permanentes | Pour masquer des infos sensibles |
-
-### 📁 Organisation (4 outils)
-
-| Outil | Description | Quand l'utiliser |
-|-------|-------------|------------------|
-| **Organisateur de pages** | Réordonne, supprime, extrait des pages | Pour les scans dans le désordre |
-| **Rotation de pages** | Fait pivoter les pages scannées de travers | Pour redresser les documents |
-| **Numérotation de pages** | Ajoute des numéros automatiquement | Pour les rapports, thèses, dossiers |
-| **Fusion & Division** | Combine ou divise des PDF | Pour regrouper ou séparer des documents |
-
-### 🖼️ Média (1 outil)
-
-| Outil | Description | Quand l'utiliser |
-|-------|-------------|------------------|
-| **Extraire les images** | Récupère les images intégrées d'un PDF | Pour les photos, logos, scans |
+<div align="center">
+  <img src="https://github.com/mohamed005cheikh-rgb/doctools-mc88/raw/main/images/Sr2.gif" alt="Signer un PDF au doigt" width="100%" />
+</div>
 
 ---
 
-## 📖 Guide d'utilisation détaillé
+## ✨ Ce que vous trouverez
 
-### 🔹 Étape 1 : Choisir un outil
-1. Sur l'écran d'accueil, **faites défiler** la liste des 16 outils
-2. Utilisez la **barre de recherche** pour trouver rapidement (ex : « compresser », « signer »)
-3. Utilisez les **filtres par catégorie** : Conversion, Optimisation, Sécurité, Organisation, Données, Média
+**Convertir, dans les deux sens.**
 
-### 🔹 Étape 2 : Ouvrir l'outil
-1. **Cliquez sur l'outil** souhaité
-2. L'outil s'ouvre en **plein écran** avec :
-   - Un **guide rapide** en haut (quand l'utiliser)
-   - Un bouton **?** pour le guide détaillé
-   - La zone de travail au centre
-   - Le bouton d'action en bas
+| Outil | Ce qu'il fait |
+|:---|:---|
+| **PDF → JPG** | Chaque page devient une image — utile quand un formulaire n'accepte que des photos. |
+| **PDF → PNG** | La même chose, mais sans perte de qualité — pour les textes fins, les schémas, les captures. |
+| **JPG → PDF** | Réunir plusieurs images dans un seul document — photos, reçus, papiers scannés. |
+| **TXT → PDF** | Transformer un texte brut en PDF propre, sans passer par un traitement de texte. |
+| **HTML → PDF** | Garder une page web ou un email sous forme de document figé. |
 
-### 🔹 Étape 3 : Charger votre fichier
-- **Option 1** : Cliquez sur la zone de téléchargement et choisissez votre fichier
-- **Option 2** : Glissez-déposez votre fichier directement
-- **Option 3** : Collez votre contenu (pour TXT, JSON, HTML)
+**Vos données, mises en forme.**
 
-### 🔹 Étape 4 : Configurer les options
-Chaque outil propose ses propres options :
-- **Taille de police** pour TXT → PDF
-- **Opacité** pour le filigrane
-- **Position** pour les numéros de page
-- **Angle de rotation** pour la rotation
-- Etc.
+| Outil | Ce qu'il fait |
+|:---|:---|
+| **JSON → PDF** | Transformer des données structurées en tableau lisible et imprimable. |
+| **CSV → PDF** | Convertir un export Excel ou Google Sheets en document soigné. |
 
-### 🔹 Étape 5 : Lancer le traitement
-1. Cliquez sur le **bouton principal** en bas
-2. Une **barre de progression** s'affiche
-3. Le fichier traité se **télécharge automatiquement**
+**Alléger et nettoyer.**
 
----
+| Outil | Ce qu'il fait |
+|:---|:---|
+| **Compresser** | Réduire le poids d'un PDF pour l'envoyer par email ou le mettre en ligne. |
+| **Métadonnées** | Voir, modifier ou effacer les informations cachées d'un document avant de le partager. |
 
-## 🛠️ Guide de dépannage
+**Protéger ce qui doit l'être.**
 
-### Problème 1 : Le fichier ne se télécharge pas
+| Outil | Ce qu'il fait |
+|:---|:---|
+| **Filigrane** | Apposer un texte ou un logo en transparence — pour marquer un document ou le protéger. |
+| **Signature** | Signer un PDF avec le doigt ou la souris, sans imprimer ni scanner. |
+| **Caviardage** | Masquer définitivement une information sensible avec des rectangles noirs. |
 
-**Cause** : Le navigateur bloque les téléchargements automatiques.
+**Remettre de l'ordre.**
 
-**Solution** :
-- Vérifiez les paramètres de téléchargement du navigateur
-- Autorisez les téléchargements multiples pour ce site
-- Essayez un autre navigateur (Chrome recommandé)
+| Outil | Ce qu'il fait |
+|:---|:---|
+| **Organiser les pages** | Réordonner, supprimer ou extraire des pages d'un document mal scanné. |
+| **Rotation** | Remettre droit une page scannée de travers. |
+| **Numérotation** | Ajouter automatiquement des numéros de page — pour un rapport, un dossier, une thèse. |
+| **Fusion & Division** | Regrouper plusieurs PDF en un seul, ou en extraire une partie. |
 
----
+**Et pour finir, récupérer les images.**
 
-### Problème 2 : Le traitement est lent
-
-**Cause** : Le fichier est volumineux (plus de 50 Mo).
-
-**Solution** :
-- Attendez que le traitement se termine
-- Pour les gros PDF, utilisez d'abord l'outil « Compresser »
-- Fermez les autres onglets gourmands en mémoire
+| Outil | Ce qu'il fait |
+|:---|:---|
+| **Extraire les images** | Retrouver toutes les photos et logos cachés à l'intérieur d'un PDF. |
 
 ---
 
-### Problème 3 : La prévisualisation ne s'affiche pas
+## 🧭 Comment ça marche
 
-**Cause** : Le fichier PDF est protégé ou corrompu.
+Trois gestes, à chaque fois.
 
-**Solution** :
-- Vérifiez que le fichier s'ouvre normalement dans un lecteur PDF
-- Essayez avec un autre fichier PDF
-- Si le PDF est protégé par mot de passe, déverrouillez-le d'abord
+**1. Choisissez votre outil.**  
+Sur la page d'accueil, les seize outils sont là, classés par catégorie. Une barre de recherche vous permet de trouver le bon en une seconde — tapez « signer », « compresser », « rotation », et il apparaît.
 
----
+**2. Déposez votre fichier.**  
+Cliquez pour parcourir vos dossiers, ou glissez-déposez directement le document sur la zone prévue. Selon l'outil, vous pouvez aussi coller du texte ou des données.
 
-### Problème 4 : Le caviardage ne fonctionne pas
+**3. Ajustez, puis lancez.**  
+Chaque outil a ses propres réglages — taille du filigrane, position des numéros, angle de rotation, opacité. Une fois satisfait, cliquez sur le bouton, et le fichier se télécharge automatiquement.
 
-**Cause** : Vous n'avez pas dessiné de boîte avant de cliquer sur « Appliquer ».
-
-**Solution** :
-- Dessinez au moins une boîte noire sur la page
-- Utilisez votre doigt (mobile) ou la souris (ordinateur)
-- La boîte doit être suffisamment grande (plus de 5px)
+Tout se passe sur votre appareil. **Vos documents ne voyagent nulle part.**
 
 ---
 
-### Problème 5 : L'extraction d'images ne trouve rien
+## 🎨 Quelques détails qui comptent
 
-**Cause** : Le PDF ne contient que du texte ou des graphiques vectoriels.
+**Trois ambiances.**  
+Un thème sombre pour le soir, un thème clair pour la journée, et un thème « verre » — plus subtil et élégant. Le choix se fait d'un clic, en haut de la page.
 
-**Solution** :
-- Ce comportement est normal pour les PDF créés à partir de Word
-- Les images intégrées (photos, logos) seront extraites
-- Les dessins vectoriels ne sont pas stockés comme images
+**Pensé pour le téléphone.**  
+L'application fonctionne aussi bien sur mobile que sur ordinateur. Les boutons sont assez grands pour le doigt, les zones tactiles sont confortables, et vous pouvez signer ou caviarder un document directement à l'écran.
 
----
-
-### Problème 6 : La signature est invisible
-
-**Cause** : Le canvas de signature est vide.
-
-**Solution** :
-- Dessinez votre signature avec le doigt ou la souris
-- Ou cliquez sur « Upload Signature » pour importer une image
-- Vérifiez que le canvas n'est pas vide avant d'appliquer
+**Votre vie privée, respectée.**  
+Aucun cookie, aucun suivi, aucune donnée envoyée. Seuls vos fichiers récents sont conservés localement, pour vous éviter de tout recommencer à chaque visite.
 
 ---
 
-### Problème 7 : Le JSON ne se convertit pas
+## 🛠️ Petits coups de main
 
-**Cause** : Le format JSON est invalide.
+**Le fichier ne se télécharge pas ?**  
+Certains navigateurs bloquent les téléchargements automatiques. Autorisez-les pour cette page, ou essayez avec Chrome qui gère cela sans sourciller.
 
-**Solution** :
-- Vérifiez que votre JSON est un **tableau d'objets** : `[{"nom":"Jean","age":30}]`
-- Assurez-vous que tous les objets ont les **mêmes clés**
-- Utilisez un validateur JSON en ligne pour vérifier
+**Un gros PDF met du temps ?**  
+Au-delà de 50 Mo, c'est normal. Le traitement se fait sur votre machine, pas sur un serveur puissant. Fermez les autres onglets si besoin, et laissez-le respirer.
 
----
+**Le caviardage ne fonctionne pas ?**  
+Il faut d'abord **dessiner au moins un rectangle noir** sur la page, puis cliquer sur « Appliquer ». Un simple clic ne suffit pas — c'est vous qui décidez ce qui doit disparaître.
 
-### Problème 8 : Le CSV s'affiche mal dans le PDF
+**L'extraction d'images ne trouve rien ?**  
+Un PDF créé à partir de Word ne contient pas d'« images » au sens strict — seulement du texte et des formes. L'outil ne peut extraire que les vraies photos et logos intégrés.
 
-**Cause** : Le CSV contient des caractères spéciaux ou des virgules dans les champs.
+**Un JSON refuse de se convertir ?**  
+Vérifiez qu'il s'agit bien d'un **tableau d'objets** (`[{"nom":"Jean","age":30}]`), et que tous les objets partagent les mêmes clés.
 
-**Solution** :
-- L'outil utilise un vrai parseur CSV (PapaParse)
-- Les champs entre guillemets sont gérés correctement
-- Vérifiez que votre CSV est bien formaté
-
----
-
-## 💾 Formats supportés
-
-### Formats d'entrée
-
-| Format | Extensions | Outils concernés |
-|--------|-----------|------------------|
-| **PDF** | `.pdf` | Tous les outils PDF |
-| **Images** | `.jpg`, `.jpeg`, `.png`, `.gif`, `.webp` | JPG → PDF, Filigrane, Signature |
-| **Texte** | `.txt` | TXT → PDF |
-| **CSV** | `.csv` | CSV → PDF |
-| **JSON** | `.json` | JSON → PDF |
-| **HTML** | `.html` | HTML → PDF |
-
-### Formats de sortie
-
-| Format | Description |
-|--------|-------------|
-| **PDF** | Document portable |
-| **JPG** | Image compressée |
-| **PNG** | Image sans perte |
-| **ZIP** | Archive contenant plusieurs fichiers |
+Pour tout le reste, écrivez-moi — je réponds vite.
 
 ---
 
-## 🎨 Thèmes
+<div align="center">
 
-L'application propose **3 thèmes** :
+### 📞 Une question, une idée ?
 
-### Sombre (défaut)
-- Activé automatiquement si votre système est en mode sombre
-- Idéal pour une utilisation nocturne
+[![Email](https://img.shields.io/badge/Email-mohamed005cheikh@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed005cheikh@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+222_30_72_64_75-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/22230726475)
 
-### Clair
-- Fond clair avec texte sombre
-- Idéal pour une utilisation diurne
+<br />
 
-### Glass (Verre)
-- Effet de verre dépoli translucide
-- Design moderne et élégant
+*Bon travail.*
 
-**Pour changer de thème** : Cliquez sur l'icône lune/soleil dans l'en-tête.
+<sub>© 2026 Mohamed Cheikh — MC88</sub>
 
----
-
-## 📱 Compatibilité mobile
-
-L'application est **100% mobile-first** :
-- Interface tactile optimisée
-- Boutons suffisamment grands
-- Canvas qui s'adapte à la taille de l'écran
-- Support du geste tactile pour le dessin (signature, caviardage)
-- Safe areas respectées (encoche iPhone, etc.)
-
----
-
-## 🔒 Confidentialité
-
-- **Aucune collecte de données** : Tout est traité localement
-- **Aucun serveur** : Les fichiers ne quittent jamais votre appareil
-- **Aucun cookie** : Pas de suivi
-- **Stockage local** : Seuls les fichiers récents sont sauvegardés
-- **100% gratuit** : Aucun paiement, aucun filigrane sur vos documents
-
----
-
-## 📄 Copyright
-
-**© 2026**  
-📧 mohamed005cheikh@gmail.com  
-**Créé par MC88**  
-**Tous droits réservés**
-
----
-
-## 🔗 Bibliothèques utilisées
-
-| Bibliothèque | Version | Usage |
-|-------------|---------|-------|
-| **jsPDF** | 2.5.1 | Génération de PDF |
-| **PDF.js** | 3.11.174 | Lecture et rendu de PDF |
-| **pdf-lib** | 1.17.1 | Manipulation de PDF |
-| **html2canvas** | 1.4.1 | Conversion HTML → image |
-| **JSZip** | 3.10.1 | Création d'archives ZIP |
-| **PapaParse** | 5.4.1 | Parsing CSV |
-| **Font Awesome** | 6.5.1 | Icônes |
-
----
-
-## ✅ Fonctionnalités techniques
-
-- **16 outils** complets
-- **Recherche instantanée** avec filtres par catégorie
-- **Fichiers récents** sauvegardés localement
-- **Guides contextuels** pour chaque outil
-- **Drag & drop** global avec overlay
-- **Barre de progression** en temps réel
-- **Gestion des gros fichiers** (>50 Mo avec avertissement)
-- **3 thèmes** (sombre, clair, glass)
-- **Particules animées** en arrière-plan
-- **Support RTL/LTR** automatique
-
----
-
-**Bon travail avec DOCTOOLS ! 📄✨**
+</div>
